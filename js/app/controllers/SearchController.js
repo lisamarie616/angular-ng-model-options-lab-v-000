@@ -1,5 +1,5 @@
 function SearchController() {
-
+  this.query = '';
 }
 
 angular
